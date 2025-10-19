@@ -1,5 +1,6 @@
 ﻿venv/
 .env
+.env.local.example
 __pycache__/
 .alembic/
 .pytest_cache/
